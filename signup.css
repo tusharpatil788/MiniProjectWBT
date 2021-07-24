@@ -1,0 +1,14 @@
+body{
+    background-image: url("LoginBackGround.jpg");
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.out{
+    margin-top:40px ;
+    border-radius: 10px;
+    width: 500px;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+}
